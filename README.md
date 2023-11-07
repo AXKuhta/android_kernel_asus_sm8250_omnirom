@@ -72,7 +72,7 @@ cd AnyKernel3
 # block=boot
 # is_slot_device=auto
 # leave only those commands:
-# dumb_boot;
+# dump_boot;
 # write_boot;
 nano anykernel.sh
 
